@@ -1,0 +1,420 @@
+{
+  "My Favorite Things": {
+    "mesostructure": "A A B C D E",
+    "root": "E",
+    "sections": {
+      "A": {
+        "0": "Emin7",
+        "1440": "F#min7",
+        "2880": "Emin7",
+        "4320": "F#min7",
+        "5760": "Cmaj7",
+        "11520": "Amin7",
+        "12960": "Ddom7",
+        "14400": "Gmaj7",
+        "15840": "Cmaj7",
+        "17280": "Gmaj7",
+        "18720": "Cmaj7",
+        "20160": "F#min7b5",
+        "21600": "Bdom7",
+        "duration": 23040,
+        "timesig": "3 4"
+      },
+      "B": {
+        "0": "Emaj7",
+        "1440": "F#min7",
+        "2880": "Emaj7",
+        "4320": "F#min7",
+        "5760": "Amaj7",
+        "11520": "Amin7",
+        "12960": "Ddom7",
+        "14400": "Gmaj7",
+        "15840": "Cmaj7",
+        "17280": "Gmaj7",
+        "18720": "Cmaj7",
+        "20160": "F#min7b5",
+        "21600": "Bdom7b5",
+        "duration": 23040,
+        "timesig": "3 4"
+      },
+      "C": {
+        "0": "Emin7",
+        "2880": "F#min7b5",
+        "4320": "Bdom7",
+        "5760": "Emin7",
+        "8640": "Cmaj7",
+        "duration": 11520,
+        "timesig": "3 4"
+      },
+      "D": {
+        "0": "Cmaj7",
+        "2880": "Adom7",
+        "4320": "Gmaj7",
+        "7200": "Cmaj7",
+        "10080": "Ddom7",
+        "duration": 11520,
+        "timesig": "3 4"
+      },
+      "E": {
+        "0": "Gmaj6",
+        "1440": "Cmaj7",
+        "2880": "Gmaj6",
+        "4320": "Cmaj7",
+        "5760": "Gmaj7",
+        "7200": "Cmaj7",
+        "8640": "F#min7b5",
+        "10080": "Bdom7",
+        "duration": 11520,
+        "timesig": "3 4"
+      }
+    }
+  },
+  "Body and Soul": {
+    "mesostructure": "A A B A",
+    "root": "Db",
+    "sections": {
+      "A":{
+        "0": "Ebmin7",
+        "960": "Bbdom7(b9)",
+        "1920": "Ebmin7",
+        "2880": "Ddom7",
+        "3840": "Dbmaj7",
+        "4800": "Gbdom7",
+        "5760": "Fmin7",
+        "6720": "Edim7",
+        "7680": "Ebmin7",
+        "9600": "Cmin7b5",
+        "10560": "Fdom7",
+        "11520": "Bbmin7",
+        "12000": "Ebdom7",
+        "12480": "Ebmin7",
+        "12960": "Abdom7",
+        "13440": "Dbmaj6",
+        "14400": "Bbdom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Dmaj7",
+        "960": "Emin7",
+        "1440": "Adom7 E",
+        "1920": "Dmaj",
+        "2880": "Gmin7",
+        "3360": "Cdom7",
+        "3840": "F#min7",
+        "4320": "Bmin7",
+        "4800": "Emin7",
+        "5280": "Adom7",
+        "5760": "Dmaj7",
+        "7680": "Dmin7",
+        "8640": "Gdom7",
+        "9600": "Cmaj7",
+        "10560": "Ebdim",
+        "11520": "Dmin7",
+        "12480": "Gdom7",
+        "13440": "Cdom7",
+        "13920": "Bdom7",
+        "14400": "Bbdom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "Cherokee": {
+    "mesostructure": "A A B A",
+    "root": "Bb",
+    "sections": {
+      "A": {
+        "0": "Bbmaj7",
+        "1440": "Fdom7#5",
+        "1920": "Fmin7",
+        "2880": "Bbdom7",
+        "3840": "Ebmaj7",
+        "5760": "Abdom7",
+        "7680": "Bbmaj",
+        "9120": "Dmin7",
+        "9600": "Cdom7",
+        "11520": "Cmin7",
+        "12480": "Dmin7b5",
+        "12960": "Gdom7",
+        "13440": "Cmin7",
+        "14400": "Fdom7#5",
+        "duration": 15360,
+        "timesig": "2 2"
+      },
+      "B": {
+        "0": "C#min7",
+        "960": "F#dom7",
+        "1920": "Bmaj7",
+        "3840": "Bimn7",
+        "4800": "Edom7",
+        "5760": "Amaj7",
+        "7680": "Amin7",
+        "8640": "Ddom7",
+        "9600": "Gmaj7",
+        "11520": "Gmin7",
+        "12480": "Cdom7",
+        "13440": "Cmin7",
+        "14400": "Fdom7#5",
+        "duration": 15360,
+        "timesig": "2 2"
+      }
+    }
+  },
+  "Miyako": {
+    "mesostructure": "A B C",
+    "root": "B",
+    "sections": {
+      "A": {
+        "0": "Bdom7",
+        "2880": "G#sus4",
+        "5760": "F#min",
+        "7200": "Fmin11",
+        "8640": "Emin7",
+        "10080": "Adom13",
+        "duration": 11520,
+        "timesig": "3 4"
+      },
+      "B":{
+        "0": "Dmaj7",
+        "1440": "Bmin7",
+        "2880": "Amin7",
+        "4320": "Gmaj",
+        "5040": "F#dom7",
+        "5760": "Bmaj7",
+        "7200": "Bmin7",
+        "8640": "A#min9",
+        "10080": "D#dom13",
+        "duration": 11520,
+        "timesig": "3 4"
+      },
+      "C":{
+        "0": "G#min7b5",
+        "1440": "C#dom7b5(b9)",
+        "2880": "F#min7b5",
+        "4320": "Bdom7b5(b9)",
+        "5760": "Emin9",
+        "7200": "Dmin7",
+        "8640": "C#min7",
+        "10080": "F#dom7b5",
+        "11520": "Cmin7",
+        "12960": "Fdom7b5(b9)",
+        "14400": "C#min7",
+        "15840": "F#dom7b5(b9)",
+        "duration": 17280,
+        "timesig": "3 4"
+      }
+    }
+  },
+  "For Heaven's Sake":{
+    "mesostructure": "A A B A",
+    "root": "F",
+    "sections": {
+      "A": {
+        "0": "Gmin7b5",
+        "960": "Cdom7b5(b9)",
+        "1920": "Fmaj7",
+        "2880": "F#dim7",
+        "3840": "Gmin7b5",
+        "4800": "Cdom7b5(b9)",
+        "5760": "Fmaj7",
+        "6720": "Fdom7",
+        "7680": "Bbmin7",
+        "9600": "Amin7",
+        "10560": "Abdim7",
+        "11520": "Gmin7",
+        "12480": "Cdom7",
+        "13440": "Fmaj6",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Ebmin7",
+        "960": "Gbmin6",
+        "1920": "Dbmaj7",
+        "2880": "Ddim7",
+        "3840": "Ebmin7",
+        "4800": "Gbmin6",
+        "5760": "Dbmaj7",
+        "7680": "Fmin",
+        "9600": "Fmin6",
+        "10560": "Fmin7",
+        "11520": "Bbmin7",
+        "13440": "Gmin7", 
+        "14400": "Cdom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "Lucky Southern":{
+    "mesostructure": "A A B C",
+    "root": "D",
+    "sections":{
+      "A": {
+        "0": "Dmaj7",
+        "3840": "Edom7",
+        "7680": "Gmaj7",
+        "9600": "Bbdom7",
+        "10560": "Adom7",
+        "11520": "Dmaj7",
+        "13440": "Emaj7",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B":{
+        "0": "F#min7",
+        "3840": "Emin7",
+        "7680": "F#min7",
+        "11520": "Amin7",
+        "13440": "Ddom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "C": {
+        "0": "Gmaj7",
+        "1920": "Gmin7",
+        "3840": "Dmaj",
+        "5760": "Fdim7",
+        "7680": "Emin7",
+        "9600": "Bbdom7",
+        "10560": "Adom7",
+        "11520": "Dmaj7",
+        "13440": "Emaj7",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "Same Shame":{
+    "mesostructure": "A A B A",
+    "root": "Ab",
+    "sections":{
+      "A":{
+        "0": "Abaug",
+        "3840": "Gbmaj7",
+        "7680": "Gbaug7",
+        "11520": "Bbdom7#5",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B":{
+        "0": "Fmaj",
+        "1920": "Amaj",
+        "3840": "Dmin",
+        "5760": "Amaj",
+        "7680": "Fmaj",
+        "9600": "Amaj",
+        "11520": "Dmin",
+        "13440": "Amaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "Girl from Ipanema":{
+    "mesostructure": "A A B A",
+    "root": "F",
+    "sections": {
+      "A":{
+        "0": "Fmaj7",
+        "3840": "Gdom7",
+        "7680": "Gmin7",
+        "9600": "Gbdom7",
+        "11520": "Fmaj7",
+        "13440": "Gbdom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B":{
+        "0": "Gbmaj7",
+        "3840": "Bdom7",
+        "7680": "F#min7",
+        "11520": "Ddom7",
+        "15360": "Gmin7",
+        "19200": "Ebdom7",
+        "23040": "Amin7",
+        "24960": "Ddom7b5(b9)",
+        "26880": "Gmin7",
+        "28800": "Cdom7b5(b9)",
+        "duration": 30720,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "Dancing on the Ceiling": {
+    "mesostructure": "A A B A",
+    "root": "F",
+    "sections": {
+      "A": {
+        "0": "Fmaj7",
+        "1920": "Fdom7#5",
+        "3840": "Bbmaj7",
+        "4800": "Bdim",
+        "5760": "Amin7",
+        "6720": "Abdim",
+        "7680": "Gmin7",
+        "8640": "Cdom7",
+        "9600": "Amin7b5",
+        "10560": "Ddom7b5(b9)",
+        "11520": "Gmin7",
+        "12480": "Cdom7",
+        "13440": "Fmaj6",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Gmin7",
+        "1920": "Cdom7",
+        "3840": "Fmaj7",
+        "5760": "Amin7b5",
+        "6720": "Ddom7",
+        "7680": "Gmin7",
+        "9600": "Cdom7",
+        "11520": "Amin7b5",
+        "12480": "Ddom7",
+        "13440": "Gmin7",
+        "14400": "Cdom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "Boplicity":{
+    "mesostructure": "A A B A",
+    "root": "F",
+    "sections":{
+      "A": {
+        "0": "Gmin7",
+        "960": "Fmaj",
+        "2880": "Cdom7",
+        "3840": "Fmaj",
+        "5760": "Cmin7",
+        "6720": "Fdom7#5",
+        "7680": "Bbmaj",
+        "9600": "Gmin7",
+        "11520": "Cdom7",
+        "13440": "Fmaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Cmin7",
+        "960": "Fdom7#5",
+        "1920": "Cmin7",
+        "2880": "Bdom7",
+        "3480": "Bbmaj",
+        "7680": "Bbmin7",
+        "8640": "Ebdom7#5",
+        "9600": "Bbmin7",
+        "10560": "Adom7",
+        "11520": "Abmaj",
+        "12480": "Abmin7",
+        "13440": "Gmin7",
+        "14400": "Cdom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  }
+}
